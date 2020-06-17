@@ -24,7 +24,7 @@ to get the info of <strong><em>LNCT GROUP OF COLLEGES JUST CLICK ON THE </em></s
 </a>
 </li>
 <li>
-<a>
+<a href="https://github.com/himanshu65sharma/lnct/blob/master/lncts.md">
 <img src="https://scontent.fbho3-1.fna.fbcdn.net/v/t1.0-9/313673_129040640539318_1950078489_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_ohc=qgcJZTsgxhoAX_1LRQR&_nc_ht=scontent.fbho3-1.fna&oh=c85c7cbfbcbfbaef858b5b858ec63882&oe=5F0E22D4" width=100 height=100>
 </a>
 </li>
