@@ -29,7 +29,7 @@ to get the info of <strong><em>LNCT GROUP OF COLLEGES JUST CLICK ON THE </em></s
 </a>
 </li>
 <li>
-<a>
+<a href="https://github.com/himanshu65sharma/lnct/blob/master/lncte.md">
 <img src="https://images.static-collegedunia.com/public/college_data/images/logos/1474368621L5.png?tr=w-72,h-80,c-force" width=100 height=100>
 </a>
 </li>
