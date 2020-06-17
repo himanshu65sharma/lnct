@@ -19,7 +19,7 @@ to get the info of <strong><em>LNCT GROUP OF COLLEGES JUST CLICK ON THE </em></s
 <p>
 <ol>
 <li>
-<a>
+<a href="https://github.com/himanshu65sharma/lnct/blob/master/lnctmain.md">
 <img src="http://www.lnctbhopal.in/images/lnct-logo.png" width=100 height=100>
 </a>
 </li>
